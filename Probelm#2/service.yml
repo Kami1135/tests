@@ -7,7 +7,7 @@ service:
   tech-leads:
     - john@gmail.com
     - Jaspin@gmail.com
-    managers: Jaspin@gmail.com
+  managers: Jaspin@gmail.com
 - service-name: bar-service
   owned-by: team#2
   criticality: critical
@@ -17,7 +17,7 @@ service:
     - Brigham@gmail.com
     - Ranger@gmail.com
     - john@gmail.com
-    managers: Ranger@gmail.com
+  managers: Ranger@gmail.com
 - service-name: foo-bar-service
   owned-by: team#1
   criticality: critical
@@ -26,7 +26,7 @@ service:
   tech-leads:
     - john@gmail.com
     - Jaspin@gmail.com
-    managers: Jaspin@gmail.com
+  managers: Jaspin@gmail.com
 - service-name: foo-service-v2
   owned-by: team#1
   criticality: critical
@@ -35,7 +35,7 @@ service:
   tech-leads:
     - john@gmail.com
     - Jaspin@gmail.com
-    managers: Jaspin@gmail.com
+  managers: Jaspin@gmail.com
 - service-name: xyz-service
   owned-by: team#1
   criticality: critical
@@ -44,7 +44,7 @@ service:
   tech-leads:
     - john@gmail.com
     - Jaspin@gmail.com
-    managers: Jaspin@gmail.com
+  managers: Jaspin@gmail.com
 - service-name: def-service
   owned-by: team#1
   criticality: critical
@@ -53,7 +53,7 @@ service:
   tech-leads:
     - john@gmail.com
     - Jaspin@gmail.com
-    managers: Jaspin@gmail.com
+  managers: Jaspin@gmail.com
 - service-name: abc-service
   owned-by: team#2
   criticality: critical
@@ -62,5 +62,5 @@ service:
   tech-leads:
     - Brigham@gmail.com
     - Ranger@gmail.com
-    managers: Ranger@gmail.com
+  managers: Ranger@gmail.com
 
