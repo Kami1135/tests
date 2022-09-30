@@ -3,9 +3,8 @@ service:
   owned-by: team#1
   criticality: non-critical
   git-repo: https://git-repo-foo
-  deploy-on: ['staging','qa']
+  deploy-on: ['staging','qa','prod']
   tech-leads:
-    - john@gmail.com
     - Jaspin@gmail.com
   managers: Jaspin@gmail.com
 - service-name: bar-service
