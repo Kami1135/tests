@@ -33,7 +33,6 @@ service:
   git-repo: https://git-repo-foo
   deploy-on: ['prod','staging','qa']
   tech-leads:
-    - john@gmail.com
     - Jaspin@gmail.com
   managers: Jaspin@gmail.com
 - service-name: xyz-service
@@ -58,7 +57,7 @@ service:
   owned-by: team#2
   criticality: critical
   git-repo: https://git-repo-foo
-  deploy-on: ['staging','qa']
+  deploy-on: ['staging','qa','prod']
   tech-leads:
     - Brigham@gmail.com
     - Ranger@gmail.com
