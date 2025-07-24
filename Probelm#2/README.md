@@ -9,7 +9,7 @@ You are given a list of services, each defined with metadata including:
 7) managers
 
 task1:
-Print services that are deployed only on prod and is critical?
+Print services along with manager that are deployed only on prod and is critical?
 
 task2:
 Given the service data, count how many services each tech lead is involved in (regardless of criticality or environment).
