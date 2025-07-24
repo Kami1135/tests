@@ -11,7 +11,7 @@ service:
   owned-by: team#2
   criticality: critical
   git-repo: https://git-repo-foo
-  deploy-on: ['prod','staging','qa']
+  deploy-on: ['prod']
   tech-leads:
     - Brigham@gmail.com
     - Ranger@gmail.com
@@ -32,7 +32,7 @@ service:
   git-repo: https://git-repo-foo
   deploy-on: ['prod','staging','qa']
   tech-leads:
-    - Jaspin@gmail.com
+    - jaspin@gmail.com
   managers: Jaspin@gmail.com
 - service-name: xyz-service
   owned-by: team#1
